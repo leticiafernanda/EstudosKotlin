@@ -9,4 +9,13 @@ componentes utilizados na construção de um aplicativo Android profissional.
 - Lógica de programação
 
 ### Módulo 2:
+- Princípios de Orientação a Objetos
+- Componentes de interface
+- Consumo de API;
+
 ### Módulo 3:
+- Finalização do consumo de API
+- Arquitetura Clean
+- MVVM
+- Injeção de dependências 
+- Testes.
