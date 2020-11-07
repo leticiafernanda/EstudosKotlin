@@ -18,4 +18,4 @@ componentes utilizados na construção de um aplicativo Android profissional.
 - Arquitetura Clean
 - MVVM
 - Injeção de dependências 
-- Testes.
+- Testes
