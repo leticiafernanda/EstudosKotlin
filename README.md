@@ -19,3 +19,7 @@ componentes utilizados na construção de um aplicativo Android profissional.
 - MVVM
 - Injeção de dependências 
 - Testes
+
+
+### Projeto Final:
+- Desenvolvimento de uma PokeDex em Kotlin
