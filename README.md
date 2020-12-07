@@ -22,4 +22,10 @@ componentes utilizados na construção de um aplicativo Android profissional.
 
 
 ### Projeto Final:
-- Desenvolvimento de uma PokeDex em Kotlin.
+- Desenvolvimento prévio de uma PokeDex em Kotlin.
+<p align="center">
+  <img src="tela1.PNG" width="350" title="hover text">
+  <img src="tela2.PNG" width="350" title="hover text">
+  <img src="tela3.PNG" width="350" title="hover text">
+  <img src="tela4.PNG" width="350" title="hover text">
+</p>
